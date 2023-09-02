@@ -1,0 +1,4 @@
+flex		: justify-content
+breakpoint	: responsive
+spacing	: margin (m) & padding (p)	
+grid		: container > row > col
